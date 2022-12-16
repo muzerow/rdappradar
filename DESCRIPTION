@@ -1,0 +1,12 @@
+Package: rdappradar
+Type: Package
+Title: A Wrapper for DappRadar API
+Version: 0.1.5
+Author: Kirill Mukhin
+Maintainer: Kirill Mukhin <muzerow6@gmail.com>
+Description: Load data from DappRadar API.
+Imports: glue, httr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.2
